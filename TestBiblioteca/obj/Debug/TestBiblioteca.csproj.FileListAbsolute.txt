@@ -1,0 +1,13 @@
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\bin\Debug\TestBiblioteca.exe.config
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\bin\Debug\TestBiblioteca.exe
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\bin\Debug\TestBiblioteca.pdb
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\bin\Debug\jose-jwt.dll
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\TestBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\TestBiblioteca.Form1.resources
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\TestBiblioteca.Properties.Resources.resources
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\TestBiblioteca.csproj.GenerateResource.cache
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\TestBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\TestBiblioteca.csproj.CopyComplete
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\TestBiblioteca.exe
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\TestBiblioteca.pdb
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\bin\Debug\BouncyCastle.Crypto.dll

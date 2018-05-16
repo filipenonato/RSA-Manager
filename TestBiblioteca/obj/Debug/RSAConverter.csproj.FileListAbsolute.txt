@@ -1,0 +1,13 @@
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\bin\Debug\TestBiblioteca.exe.config
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\bin\Debug\TestBiblioteca.exe
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\bin\Debug\TestBiblioteca.pdb
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\bin\Debug\jose-jwt.dll
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\RSAConverter.csprojResolveAssemblyReference.cache
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\TestBiblioteca.Properties.Resources.resources
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\RSAConverter.csproj.GenerateResource.cache
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\RSAConverter.csproj.CoreCompileInputs.cache
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\RSAConverter.csproj.CopyComplete
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\TestBiblioteca.exe
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\TestBiblioteca.pdb
+C:\Users\filipe.souza\source\repos\TestBiblioteca\TestBiblioteca\obj\Debug\TestBiblioteca.RSAManager.resources
